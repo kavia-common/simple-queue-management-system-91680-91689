@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-queue-management-system-91680-91689/queue_backend"
+}
